@@ -2,7 +2,7 @@
 #### Live-Link: https://volunteer-network-demo.netlify.app/
 ###### Client-side-Repository-Link: https://github.com/touhedulhaque/volunteer-network-demo-client
 
-`Back to` [Resume of Haque](bit.ly/35HrjHd).
+`Back to` [Resume of Haque](https://drive.google.com/file/d/1OPYsxd5woKjk59KSaLfclYRCAxCbx66D/view).
 
 - A Full Stack (MERN stack) Project.
 - A volunteer organization page that offers a lot of volunteer services.
@@ -29,7 +29,7 @@
 - bootstrap
 - css & html.
 
-Back to [Resume of Haque](bit.ly/35HrjHd).
+Back to [Resume of Haque](https://drive.google.com/file/d/1OPYsxd5woKjk59KSaLfclYRCAxCbx66D/view).
 
 Best Regards
 
